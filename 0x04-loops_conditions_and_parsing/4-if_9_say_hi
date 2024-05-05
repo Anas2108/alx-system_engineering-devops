@@ -4,7 +4,7 @@
 COUNTER=0
 while [ $COUNTER -lt 10 ]
 do
-    if [ $COUNTER = 8 ]
+    if [ $COUNTER = 9 ]
     then
         echo "Hi"
     else
