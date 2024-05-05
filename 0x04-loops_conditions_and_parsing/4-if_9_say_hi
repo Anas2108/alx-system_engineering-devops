@@ -7,8 +7,7 @@ do
     if [ $COUNTER = 9 ]
     then
         echo "Hi"
-    else
-        echo "Best School"
     fi
-    (( COUNTER++ ))
+        echo "Best School"
+        (( COUNTER++ ))
 done
