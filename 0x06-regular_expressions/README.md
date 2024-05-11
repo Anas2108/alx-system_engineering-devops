@@ -26,7 +26,7 @@ Read or watch:
 ---
 
 ## Author
-* **Anas Hamed** - [Mahiuha](https://github.com/Anas2108)
+* **Anas Hamed** - [Anas](https://github.com/Anas2108)
 
 -----
 
